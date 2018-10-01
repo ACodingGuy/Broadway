@@ -35,7 +35,7 @@ p {
 }
 
 .images {
-  text-align: center;
+  image-orientation: center
 }
 
 .banner {
@@ -53,13 +53,4 @@ p {
   color: white;
   background-color: dimgray;
   text-align: left;
-}
-
-.navlink2 {
- font-family: Helvetica;
- font-size: 11px;
- color: white;
- background-color: dimgray;
- text-align: left;
- text-decoration: underline;
 }
