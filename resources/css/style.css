@@ -1,0 +1,15 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.navlink {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
