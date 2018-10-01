@@ -28,6 +28,17 @@ h3 {
   text-align: center;
 }
 
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+  text-align: center;
+
+}
+
+.images {
+  text-align: center;
+}
+
 .banner {
   font-family: Helvetica;
   font-size: 23px;
