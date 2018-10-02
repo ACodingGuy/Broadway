@@ -6,12 +6,9 @@ h1 {
   text-align: center;
 }
 
-.navlink {
-  font-family: Helvetica;
-  font-size: 18px;
-  color: white;
+.banner1 {
+  background-image: image(../resources/images/the-flatiron-building.png);
   text-align: center;
-  text-decoration: underline;
 }
 
 h2 {
@@ -38,7 +35,7 @@ p {
   image-orientation: center
 }
 
-.banner {
+.banner2 {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
