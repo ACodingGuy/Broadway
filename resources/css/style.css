@@ -1,5 +1,5 @@
 .banner1 {
-  background-image: url(../resources/images/the-flatiron-building.png);
+  background-image: url(.../resources/images/the-flatiron-building.png);
 }
 
 .banner1 h1 {
@@ -48,7 +48,7 @@
   font-weight: bold;
   color: white;
   text-align: center;
-  background-image: url(../resources/images/the-flatiron-building.png);
+  background-image: url(.../resources/images/the-flatiron-building.png);
 }
 
 .footer {
