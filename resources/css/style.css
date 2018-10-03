@@ -1,16 +1,15 @@
+.banner1 {
+  background-image: image(./resources/images/the-flatiron-building.png);
+  text-align: center;
+  color: white;
+}
+
 .banner1 h1 {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
-  text-align: center;
-  }
-
-.banner1 {
-  background-image: image(./resources/images/the-flatiron-building.png);
-  text-align: center;
-  color: white;
-    }
+}
 
 .navlink {
   font-size: 18px;
