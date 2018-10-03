@@ -1,5 +1,5 @@
 .banner1 {
-  background-image: image(./resources/images/the-flatiron-building.png);
+  background-image: image(.../resources/images/the-flatiron-building.png);
   text-align: center;
   color: white;
 }
@@ -50,7 +50,7 @@
   font-weight: bold;
   color: white;
   text-align: center;
-  background-image: image(../resources/images/the-flatiron-building.png);
+  background-image: image(.../resources/images/the-flatiron-building.png);
 }
 
 .footer {
