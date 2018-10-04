@@ -1,11 +1,11 @@
 .banner {
   background-image: url(../resources/images/the-flatiron-building.png);
-  text-align: center;
-  color: white;
 }
 
 .banner h1 {
   font-size: 70px;
+  text-align: center;
+  color: white;
 }
 
 .navlink {
